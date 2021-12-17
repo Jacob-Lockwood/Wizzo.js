@@ -1,6 +1,7 @@
 # Wizzo.js
 Little drop-in React-inspired JavaScript framework. Like React without the virtual dom or transpilation. "Wizzo" is the working title. 
 Instead of using JSX, Wizzo uses a tagged template literal syntax to create elements.
+
 This React code:
 ```js
 import ReactDOM from "react-dom";
@@ -15,7 +16,7 @@ function App(props) {
     </div>
   );
 }
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App name="World" />, document.getElementById("root"));
 ```
 Becomes this Wizzo code:
 ```js
