@@ -2,6 +2,7 @@
   "name": "wizzo",
   "version": "1.0.0",
   "description": "Little drop-in React-inspired JS framework.",
+  "type": "module",
   "license": "MIT",
   "repository": "skra-pa-pa/Wizzo.js",
   "main": "index.js",
