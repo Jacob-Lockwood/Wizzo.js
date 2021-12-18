@@ -1,0 +1,16 @@
+{
+  "name": "wizzo",
+  "version": "1.0.0",
+  "description": "Little drop-in React-inspired JS framework.",
+  "license": "MIT",
+  "repository": "skra-pa-pa/Wizzo.js",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "framework",
+    "front-end",
+    "ui",
+    "user interface",
+    "components"
+  ]
+}
