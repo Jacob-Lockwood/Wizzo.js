@@ -1,3 +1,5 @@
+> **Important:** This legacy version of Wizzo.js will no longer be continued and has been replaced by [skra-pa-pa/wizzo](https://github.com/skra-pa-pa/wizzo), which includes TypeScript support and is *not* just a weird React alternative.
+
 # Wizzo.js
 Little drop-in React-inspired JavaScript framework. Like React without the virtual DOM or transpilation. "Wizzo" is the working title. 
 Instead of using JSX, Wizzo uses a tagged template literal syntax to create elements.
